@@ -1,1 +1,1 @@
-# Jason-Jaguar-Full-Kernel-1.2.9
+# Jason-Jaguar-OS-1.2.9-Legacy-Shell
